@@ -1,0 +1,9 @@
+{
+	"name": "img_correct",
+	"description": "Node.js utility for watching a folder and renaming undesirable image files",
+	"author": "Dennis Johnson",
+	"dependencies": {
+		"node-watch": "*",
+		"walk": "*"
+	}
+}
