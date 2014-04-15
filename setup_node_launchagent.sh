@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This is the top-level folder you want to watch
 ARGV="/Users/$USER/Desktop"
 
 # output xml template to file

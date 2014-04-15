@@ -5,6 +5,7 @@ var walk = require('walk');
 		
 // Only look at the images
 var fileCodes = /.jpg|.JPG|.png|.jpeg|.JPEG/;
+
 // Regex codes you want to find and replace
 var picCodes = /PLU|ARS|COM|EL|HEAT|HM|INS|JAN|PST|TL|A\:C/;
 
